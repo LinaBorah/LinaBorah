@@ -42,4 +42,4 @@ Here are some ideas to get you started:
                         I can become a Full stack developer.
                         </p>
                         </p>
-                        #You can checkout my portfolio, which I built in react from scratch, Here is the link: [My Portfolio] (https://linaborah.github.io)
+                        #You can checkout my portfolio, which I built in react from scratch, Here is the link: [My Portfolio](https://linaborah.github.io/)
