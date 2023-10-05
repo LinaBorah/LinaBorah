@@ -31,7 +31,8 @@ Here are some ideas to get you started:
                         I have experience in
                         designing and developing front end part of websites, and I am learning
                         backend technologies like nodeJS, MySQL database and planning to learn
-                        Laravel framework.</p>
+                        Laravel framework.
+                        I am planning to develop a project with the MERN stack in the future.</p>
                         <p>
                         I constantly upskill myself with new technologies,
                         so that I can use them to solve
